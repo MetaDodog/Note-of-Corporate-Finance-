@@ -3,6 +3,7 @@ I decide to modify the textbook according to my understanding. By doing so I can
 I know the knowledge from this textbook is not enough, but it will act like the foundation, which provides a basic structure with many concepts in it. After that, I can add other knowledge to modify the structure.   
 As for why I choose to keep this note open, there are primarily two reasons:  
 * To teach is the best way to learn.
-* To comunicate with others is the best way to test your work.    
+* To comunicate with others is the best way to test your work.         
+
 So welcome to discuss with me about this interesting topic.   
 : )  
